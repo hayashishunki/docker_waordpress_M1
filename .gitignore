@@ -5,7 +5,6 @@ wp-content/upgrade
 wp-content/index.php
 wp-includes
 .htaccess
-docker-compose.yml
 index.php
 license.txt
 readme.html
